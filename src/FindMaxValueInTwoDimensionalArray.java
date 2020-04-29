@@ -39,7 +39,6 @@ public class FindMaxValueInTwoDimensionalArray {
         }
         System.out.println("Mảng đã nhập là: ");
         showArray(arr);
-        System.out.println("Giá trị lớn nhất trong mảng là: ");
         System.out.println(MaxValueInTwoDimensionalArray(arr));
     }
 }
